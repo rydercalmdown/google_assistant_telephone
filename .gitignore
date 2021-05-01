@@ -1,0 +1,5 @@
+*.json
+*.pyc
+**/.DS_Store
+env
+environment.sh
